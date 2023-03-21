@@ -1,0 +1,16 @@
+{
+  "name": "tauriapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.2.3"
+  },
+  "volta": {
+    "node": "18.13.0"
+  }
+}
